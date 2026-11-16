@@ -12,5 +12,4 @@ Bem vindo ao meu primeiro repositorio no **Github**
 1. Git e Git Bash
 2. Visual Studio Code
 
-## Modificação!
-- alteração
+## Funcionou
